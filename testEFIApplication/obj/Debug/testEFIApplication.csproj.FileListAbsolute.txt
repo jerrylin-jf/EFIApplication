@@ -1,0 +1,12 @@
+c:\users\jianfali\documents\visual studio 2015\Projects\testEFIApplication\testEFIApplication\bin\Debug\testEFIApplication.exe.config
+C:\Users\jianfali\Documents\Visual Studio 2015\Projects\testEFIApplication\testEFIApplication\bin\Debug\testEFIApplication.exe
+C:\Users\jianfali\Documents\Visual Studio 2015\Projects\testEFIApplication\testEFIApplication\bin\Debug\testEFIApplication.pdb
+C:\Users\jianfali\Documents\Visual Studio 2015\Projects\testEFIApplication\testEFIApplication\obj\Debug\testEFIApplication.csprojResolveAssemblyReference.cache
+C:\Users\jianfali\Documents\Visual Studio 2015\Projects\testEFIApplication\testEFIApplication\obj\Debug\testEFIApplication.Form1.resources
+C:\Users\jianfali\Documents\Visual Studio 2015\Projects\testEFIApplication\testEFIApplication\obj\Debug\testEFIApplication.Properties.Resources.resources
+C:\Users\jianfali\Documents\Visual Studio 2015\Projects\testEFIApplication\testEFIApplication\obj\Debug\testEFIApplication.csproj.GenerateResource.Cache
+C:\Users\jianfali\Documents\Visual Studio 2015\Projects\testEFIApplication\testEFIApplication\obj\Debug\testEFIApplication.exe
+C:\Users\jianfali\Documents\Visual Studio 2015\Projects\testEFIApplication\testEFIApplication\obj\Debug\testEFIApplication.pdb
+C:\Users\jianfali\Documents\GitHub\EFIApp\testEFIApplication\bin\Debug\testEFIApplication.exe.config
+C:\Users\jianfali\Documents\GitHub\EFIApp\testEFIApplication\obj\Debug\testEFIApplication.exe
+C:\Users\jianfali\Documents\GitHub\EFIApp\testEFIApplication\obj\Debug\testEFIApplication.pdb
