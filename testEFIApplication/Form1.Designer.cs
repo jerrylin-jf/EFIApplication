@@ -40,6 +40,7 @@
             this.txtFunction = new System.Windows.Forms.TextBox();
             this.txtOffset = new System.Windows.Forms.TextBox();
             this.btnCalculate = new System.Windows.Forms.Button();
+            this.txtResult = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lblRegister
@@ -90,6 +91,7 @@
             // txtRegister1
             // 
             this.txtRegister1.Location = new System.Drawing.Point(63, 18);
+            this.txtRegister1.MaxLength = 4;
             this.txtRegister1.Name = "txtRegister1";
             this.txtRegister1.Size = new System.Drawing.Size(41, 20);
             this.txtRegister1.TabIndex = 5;
@@ -97,6 +99,7 @@
             // txtRegister2
             // 
             this.txtRegister2.Location = new System.Drawing.Point(110, 18);
+            this.txtRegister2.MaxLength = 4;
             this.txtRegister2.Name = "txtRegister2";
             this.txtRegister2.Size = new System.Drawing.Size(41, 20);
             this.txtRegister2.TabIndex = 6;
@@ -137,12 +140,22 @@
             this.btnCalculate.TabIndex = 11;
             this.btnCalculate.Text = "Calculate";
             this.btnCalculate.UseVisualStyleBackColor = true;
+            this.btnCalculate.Click += new System.EventHandler(this.btnCalculate_Click);
+            // 
+            // txtResult
+            // 
+            this.txtResult.AutoSize = true;
+            this.txtResult.Location = new System.Drawing.Point(69, 194);
+            this.txtResult.Name = "txtResult";
+            this.txtResult.Size = new System.Drawing.Size(0, 13);
+            this.txtResult.TabIndex = 12;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 262);
+            this.Controls.Add(this.txtResult);
             this.Controls.Add(this.btnCalculate);
             this.Controls.Add(this.txtOffset);
             this.Controls.Add(this.txtFunction);
@@ -176,6 +189,7 @@
         private System.Windows.Forms.TextBox txtFunction;
         private System.Windows.Forms.TextBox txtOffset;
         private System.Windows.Forms.Button btnCalculate;
+        private System.Windows.Forms.Label txtResult;
     }
 }
 
